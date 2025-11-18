@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260">
+  <rect width="100%" height="100%" fill="#0f172a"/>
+  
+  <text x="50%" y="40%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Segoe UI, Arial" font-size="36" fill="#E6F0FF" font-weight="700">
+    EngAnsar — Data Analyst · AI · SEO · BI
+  </text>
+  
+  <text x="50%" y="58%" dominant-baseline="middle" text-anchor="middle"
+        font-family="Segoe UI, Arial" font-size="20" fill="#AEBEDA">
+    Python · SQL · Power BI · GA4 · AWS · ETL · Marketing Analytics
+  </text>
+
+  <rect x="420" y="170" width="160" height="40" rx="10" fill="#E6F0FF"/>
+  <text x="500" y="195" dominant-baseline="middle" text-anchor="middle"
+        font-family="Segoe UI, Arial" font-size="16" fill="#0f172a" font-weight="600">
+    Open to Work
+  </text>
+</svg>
