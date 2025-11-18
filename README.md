@@ -1,6 +1,6 @@
  Hi, I'm *EngAnsar*👋
 
-> *Data Analyst • SEO & Digital Analytics Specialist • Python & BI Enthusiast*
+> *Data Analyst & Generative AI Specialist | AI-Powered Business Insights | Data Visualization*
 
 <p align="center">
   <img src="assets/banner.svg" alt="banner" width="100%"/>
