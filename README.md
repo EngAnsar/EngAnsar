@@ -59,8 +59,8 @@ Interactive Excel dashboard using pivot + VBA + data model.
 ---
 
 ## 📬 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/ansarat-5853b225b  
-- 📧 Email: engransar389@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/ansar-dataseoexpert
+- 📧 Email: engransar33@gmail.com  
 - 🐙 GitHub: https://github.com/EngAnsar
 
 ---
