@@ -2,9 +2,7 @@
 
 > *Data Analyst • SEO & Digital Analytics Specialist • Python & BI Enthusiast*
 
-<p align="center">
-  <img src="assets/banner.svg" alt="banner" width="100%"/>
-</p>
+![banner](assets/banners.svg)
 
 ## 🔭 About Me
 - ✅ Professional Certificate in *Data Analytics & Generative AI* (Purdue & IBM)  
